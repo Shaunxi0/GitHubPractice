@@ -1,5 +1,3 @@
-# GitHubPractice
-Git Hub Practice
 <!DOCTYPE html>
 <html>
 <head>
